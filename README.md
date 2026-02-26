@@ -12,6 +12,6 @@ chmod +x sovereign_push_everywhere.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign_push_everywhere.sh
+/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/sovereign_push_everywhere.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
